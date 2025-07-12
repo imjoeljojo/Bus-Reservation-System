@@ -1,4 +1,3 @@
-import React from "react";
 import "./User.css";
 import { useState } from "react";
 import { toast } from "react-toastify";
